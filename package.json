@@ -1,0 +1,22 @@
+{
+  "name": "react-tilt-effect",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Andrey Starkov",
+  "dependencies": {
+    "animejs": "^2.0.2",
+    "imagesloaded": "^4.1.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
