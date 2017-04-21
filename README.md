@@ -2,6 +2,8 @@
 
 Original: https://tympanus.net/codrops/2016/11/23/tilt-hover-effects/
 
+<img src="tilts.gif" alt="React Tilt Hover Effect" />
+
 ## Usage:
 
 Import:
